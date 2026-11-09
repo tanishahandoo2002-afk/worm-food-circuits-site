@@ -6,7 +6,9 @@ Findings page for a computational analysis of feeding, food encounter and longev
 
 This is a student research project and has not been peer reviewed. Its findings are computational predictions from public data; no lifespan was measured.
 
-This repository holds only the published page, `index.html`, a single self-contained file that bundles its summary tables and the [d3](https://d3js.org) library (ISC licence). Neural activity traces derived from the recordings are left out until the re-use terms of the source data are confirmed.
+This repository holds only the published page, `index.html`, a single self-contained file that bundles its summary tables and the [d3](https://d3js.org) library (ISC licence).
+
+The brain-activity charts (two heatmaps, an MC activity trace and the responders chart) show processed data from the Flavell lab's recordings, credited on the page. The source datasets state no licence, so we are asking the lab for permission to show them, and will remove them if asked.
 
 ## Data sources
 
